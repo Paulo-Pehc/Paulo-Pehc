@@ -3,7 +3,7 @@ Olá! Meu nome é Paulo Enrique, sou Desenvolvedor de Sistemas, Eletricista de M
 Procuro sempre me manter atualizado com meus estudos e busco constante aprimoramente na área de TI e Eletrônica.
 
 ## Conecte-se comigo
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/paulo-e-h-c/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paulo-e-h-c/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Paulo-Pehc)
 
 ## Habilidades
