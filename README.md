@@ -23,7 +23,7 @@ Procuro sempre me manter atualizado com meus estudos e busco constante aprimoram
 
 
 ## GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Paulo-Pehc&theme=transparent&bg_color=6b8e23&border_color=fff&show_icons=true&icon_color=fff&title_color=fff&text_color=FFF&hide_title=true&hide=stars)
+![GitHub Stats](https://vercel-github-readme-stats-87xzycsv9-paulo-pehcs-projects.vercel.app/api?username=Paulo-Pehc&theme=transparent&bg_color=6b8e23&border_color=fff&show_icons=true&icon_color=fff&title_color=fff&text_color=FFF&hide_title=true&hide=stars)
 
 ## Minhas Contribuições
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Paulo-Pehc&repo=dio-lab-open-source&bg_color=6b8e23&border_color=fff&show_icons=true&icon_color=fff&title_color=fff&text_color=FFF)](https://github.com/Paulo-Pehc/dio-lab-open-source)
