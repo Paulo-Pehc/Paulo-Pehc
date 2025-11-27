@@ -23,6 +23,7 @@ Procuro sempre me manter atualizado com meus estudos e busco constante aprimoram
 ![Java](https://img.shields.io/badge/Java-E01F23?style=for-the-badge&logo=java)
 ![JSON](https://img.shields.io/badge/JSON-4A4A4A?style=for-the-badge&logo=json)
 ![XML](https://img.shields.io/badge/XML-FAB169?style=for-the-badge&logo=xml)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite)
 
 
 ## GitHub Stats
