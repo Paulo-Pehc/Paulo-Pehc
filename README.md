@@ -5,6 +5,9 @@ Procuro sempre me manter atualizado com meus estudos e busco constante aprimoram
 ## Conecte-se comigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paulo-e-h-c/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Paulo-Pehc)
+[![Portfolio](https://img.shields.io/badge/Portfolio-1D572D?style=for-the-badge&logo=codementor&logoColor=white)](https://paulo-pehc.github.io/Portfolio/)
+
+
 
 ## Habilidades
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
